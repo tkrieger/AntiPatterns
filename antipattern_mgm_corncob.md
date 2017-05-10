@@ -1,7 +1,7 @@
 Anti-Pattern: Corncob
 ===================
 
--        | Value
+Name     | Value
 -------- | ---
 Anti-Pattern Name | Corncob ("Maiskolben")
 Andere Namen      | Corporate Shark, Loose Cannon, Third-World Information System Troubles (TWIT)

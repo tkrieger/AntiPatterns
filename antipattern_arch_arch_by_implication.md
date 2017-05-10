@@ -1,7 +1,7 @@
 Anti-Pattern: Architecture by implication
 ===================
 
--        | Value
+Name     | Value
 -------- | ---
 Anti-Pattern Name | Architecture by implication
 Andere Namen      | Wherefore art thou architecture?

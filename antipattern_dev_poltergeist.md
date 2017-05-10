@@ -1,7 +1,7 @@
 Anti-Pattern: Poltergeist
 ===================
 
--        | Value
+Name     | Value
 -------- | ---
 Anti-Pattern Name | Poltergeist
 Andere Namen      | Gypsy, Proliferation of Classes, and Big DoIt Controller

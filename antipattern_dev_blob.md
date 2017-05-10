@@ -1,7 +1,7 @@
 Anti-Pattern: The Blob
 ===================
 
--        | Value
+Name     | Value
 -------- | ---
 Anti-Pattern Name | The Blob 
 Andere Namen      | Winnebago, The God Class
