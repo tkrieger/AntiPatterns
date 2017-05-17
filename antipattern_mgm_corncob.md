@@ -29,16 +29,16 @@ Symptome
 
 Ursachen
 --------
-- Managment sieht Lage aus sicht des Croncob ("der der am lautseten schreit")
+- Managment sieht Lage aus Sicht des Croncob ("der der am lautseten schreit")
 - Croncub verfolgt eigene Agenda (-> Konflikt mit Team Zielen)
 - unüberwindbare Meinungverschiedenheiten im Team
-- Gruppe ist nur unzureichend vor Internen und Exenren Einflüssen geshützt
+- Gruppe ist nur unzureichend vor Internen und Exenren Einflüssen geschützt
 
 Konsequenzen
 ------------
 - haben eine Umgebung zur Folge, in der nur schwer technische Diskussionen konstruktiv ausgeführt werden können
-- regelmäßige Änderungen der Anforderungen (dank des Croncobs) brigen das Projekt in eine Reactive Lage
-- oft ist der Corncob ein Manager oder ander höher autorisierte Person
+- regelmäßige Änderungen der Anforderungen (dank des Croncobs) brigen das Projekt in eine Reackive Lage
+- oft ist der Corncob ein Manager oder andere höher autorisierte Person
 
 Lösung / Refactoring
 --------------------

@@ -10,11 +10,10 @@ Anekdote    | "Diese Klasse ist das *Herz* unserer Anwendung"
 
 Kurzzusammenfassung
 -------------------
-Ein Blob Element bezeichnet eine zu "mächtige" bzw. Klasse. Die Klasse trägt sozusagen zu viel Verantwortung im Programm, da in ihr quasi jegliche Funktinalität implementiert ist. Sprich dieses Objekt "weiß und macht" einfach zu viel. Andere Klassen und Objekte werden fast ausschließlich nur als Datenspeicher verwendet. Dies widerspricht grundlegend dem objektorientierten Ansatz.
+Ein Blob Element bezeichnet eine zu "mächtige" Klasse. Die Klasse trägt sozusagen zu viel Verantwortung im Programm, da in ihr quasi jegliche Funktionalität implementiert ist. Sprich dieses Objekt "weiß und macht" einfach zu viel. Andere Klassen und Objekte werden fast ausschließlich nur als Datenspeicher verwendet. Dies widerspricht grundlegend dem objektorientierten Ansatz.
 
 Erscheinungsform
 ----------------
-- eine Klasse enthält den Großteil aller Funktionalität
 - andere Klassen dienen fast ausschließlich als Datenspeicher
 - jegliche Funktionaltiät wird meist von dieser Klasse bereitgestellt
 - entspricht einem prozeduralen Entwurf, auch wenn in Klassen "verpackt" ( Trennung von Daten & Funktionalität vs. Mischung dieser)
@@ -35,7 +34,7 @@ Ursachen
 
 Konsequenzen
 ------------
-- Einschränkung der Modifizierbarkeit ohne Funktionaltität einzuschränken (-> Data Encapsulation)
+- Einschränkung der Modifizierbarkeit (-> Data Encapsulation / Abhägigkeiten von Daten)
 - Blob Klassen sind zu komplex zur Wiederverwendung
 - gute Tests sind sehr schwer zu erstellen
 - imenser Resourcen verbrauch (->kritisch bspw. bei Java-Class-Loading)
